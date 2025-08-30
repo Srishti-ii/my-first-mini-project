@@ -1,0 +1,43 @@
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.video-title{
+
+font-weight: bold;
+font-size: 18px;
+width: 300px;
+line-height: 24px;
+margin-bottom: 5px;
+}
+.views{
+
+font-size: 14px;
+color: grey; 
+
+margin-bottom: 20px;
+}
+.name{
+
+font-size: 14px;
+color: grey;
+margin-bottom: 100px; 
+
+}
+.text{
+margin-bottom: 50 px;
+font-size: 14px;
+background-color: red;
+text-align: center;
+color: white;
+padding-top:18px;
+padding-bottom: 18px;
+
+}
+.span-ex:hover{
+text-decoration: underline;
+}
+.span-ex{
+cursor: pointer;
+}
